@@ -1,1 +1,2 @@
-# greg_avery_1056_Project1
+# Homework Assignment 1
+## By: Greg Avery
